@@ -1,4 +1,18 @@
 # Object-Detection-YOLO_v5
-Object detection using Yolo_v5 by Ultralytics
+## Object(Plane) detection using Yolo_v5 by Ultralytics
 
-Dataset--> https://www.kaggle.com/aceofspades914/cgi-planes-in-satellite-imagery-w-bboxes
+### Overview
+For this project, I will be using the YOLOv5 to train an object detection model. YOLO is an acronym for “You Only Look Once”. A popular architecture due to:
+1. Speed (Base model — 45 frames per second, Fast model — 155 frames per second, 1000x faster than R-CNN, )
+2. The architecture comprises only a single neural network (Can be optimized end to end directly on detection performance)
+3. Able to learn the general representation of objects (Predictions are informed by the global context of image)
+4. Open-source.
+
+To learn more about the model visit their repository: Ultralytics YOLOv5 Github repository.
+
+### Test images
+
+### Dataset
+Two folders of 500 computer generated satellite images of planes accompanied with an xml of the bounding box coordinates for each.
+
+The dataset can be download here: https://www.kaggle.com/aceofspades914/cgi-planes-in-satellite-imagery-w-bboxes
