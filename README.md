@@ -8,8 +8,6 @@ For this project, I will be using the YOLOv5 to train an object detection model.
 3. Able to learn the general representation of objects (Predictions are informed by the global context of image)
 4. Open-source.
 
-To learn more about the model visit their repository: https://github.com/ultralytics/yolov5.
-
 ### Test images
 ![download](https://user-images.githubusercontent.com/90151852/133124184-797eeb0d-5243-4836-bf59-6d8dd7ce47a8.png)
 
