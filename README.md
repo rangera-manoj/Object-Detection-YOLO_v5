@@ -11,6 +11,7 @@ For this project, I will be using the YOLOv5 to train an object detection model.
 To learn more about the model visit their repository: Ultralytics YOLOv5 Github repository.
 
 ### Test images
+![download](https://user-images.githubusercontent.com/90151852/133124184-797eeb0d-5243-4836-bf59-6d8dd7ce47a8.png)
 
 ### Dataset
 Two folders of 500 computer generated satellite images of planes accompanied with an xml of the bounding box coordinates for each.
