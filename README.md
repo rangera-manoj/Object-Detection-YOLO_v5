@@ -1,5 +1,5 @@
 # Object-Detection-YOLO_v5
-## Object(Plane) detection using Yolo_v5 by Ultralytics
+Object(Plane) detection using Yolo_v5 by Ultralytics
 
 ### Overview
 For this project, I will be using the YOLOv5 to train an object detection model. YOLO is an acronym for “You Only Look Once”. A popular architecture due to:
