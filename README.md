@@ -17,6 +17,7 @@ There are a total of 4 models to train, Configuration files of all these models 
 
 ## Resource
 Article:- https://dockship.io/articles/6013cea05c9276402bd7a484/training-yolov5-object-detection-model-on-custom-data
+
 Colab Notebook:- https://colab.research.google.com/drive/1jD7E8wZfBCYTtXwFPrDwoYnpXG7POKYL?usp=sharing#scrollTo=xsIDf5m-jgw7
 
 ## Test images
